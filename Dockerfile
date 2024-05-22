@@ -1,4 +1,4 @@
-FROM ghcr.io/ajnart/homarr:0.15.0
+FROM ghcr.io/ajnart/homarr:0.15.3
 
 COPY configs /app/data/configs
 COPY icons /app/public/icons
