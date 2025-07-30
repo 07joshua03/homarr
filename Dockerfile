@@ -1,4 +1,4 @@
-FROM ghcr.io/ajnart/homarr:0.15.3
+FROM ghcr.io/homarr-labs/homarr:v1.30.1
 
 COPY icons /app/public/icons
 
